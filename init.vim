@@ -316,13 +316,13 @@ if has('gui_running')
 endif
 
 " line number will be highlighted if set rnu
-"set cursorline " highlight current line *Slow*
+set cursorline " highlight current line *Slow*
 set cmdheight=1 " The commandbar height
 "set showcmd " display what command was typed
 set noshowmode " display current mode
 
 set nu " line number
-set rnu " line number (relative number)
+"set rnu " line number (relative number)
 set hid " Change buffer - without saving
 " Set backspace config
 set backspace=eol,start,indent
