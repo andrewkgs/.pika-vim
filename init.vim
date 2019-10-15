@@ -406,7 +406,7 @@ set cino+=g0.5s,h0.5s,(0,W2s
 " line break on 80 characters
 set tw=80
 " color column after 'textwidth'
-set colorcolumn=+1
+"set colorcolumn=+1
 
 set ai "Auto indent
 set wrap " wrap lines
